@@ -25,8 +25,6 @@
    <a href="https://github.com/Gartner24"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=dracula&hide_border=true"  width="520" alt="Gartner24"/></a>
   
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Gartner24&theme=dracula&column=4&no-frame=true)
-
-  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=dracula&layout=compact)](https://github.com/Gartner24/github-readme-stats"/>
  
   </div>
