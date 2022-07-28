@@ -1,16 +1,3 @@
-
-
-[![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
-
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-
 <p align="center">
 
   <img src="[https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q](https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)" height="200" />
@@ -18,7 +5,7 @@
 
 ### Welcome to my Profile 👩‍💻💻
 
-- 🖥️🖱️ FrontEnd web developer.
+- 🖥️🖱️ FrontEnd web developer. [![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
 - 👩🏻‍  I’m currently working on ❤️![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ❤️![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 🔥![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ❤️![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ❤️![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - 👯 I’m looking to be a FullStack developer 😁
 
@@ -32,7 +19,7 @@
 ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Gartner24&theme=dracula&column=4&no-frame=true)
 
   <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhayadav&theme=dracula&layout=compact)](https://github.com/Gartner24/github-readme-stats"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=dracula&layout=compact)](https://github.com/Gartner24/github-readme-stats"/>
  
   </div>
    
@@ -56,5 +43,5 @@
 
 
 
-[![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)](https://github.com/deepshikhayadav)
-![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
+[![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24)
+![Profile views](https://gpvc.arturio.dev/Gartner24)  
