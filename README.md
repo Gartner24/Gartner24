@@ -1,13 +1,19 @@
+# Welcome to my Profile 👩‍💻💻
+
 <p align="center">
-<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="100px" >
+<img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="100px" ><img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="100px" >
 </p>
 
-### Welcome to my Profile 👩‍💻💻
+<div align="center">
 
-- 🖥️🖱️ FullStack developer. </br></br>
+🖥️🖱️ I'm a FullStack developer. </br></br>
+
+Coding Time
+
 [![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
+</div>
 
-## 🍕 I’m currently working on:</br></br>
+## 🍕 I’m currently working on
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
 
@@ -23,28 +29,22 @@
 
 <div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&count_private=false&show_icons=true&theme=dracula&include_all_commits=true" alt="Gartner24 |Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&count_private=false&show_icons=true&theme=dark&include_all_commits=true" alt="Gartner24 |Stats" />
 
-   <a href="https://github.com/Gartner24"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=dracula&hide_border=false"  width="600" alt="Gartner24"/></a>
+   <a href="https://github.com/Gartner24"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=dark"  width="500" alt="Gartner24"/></a>
 
-   ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Gartner24&theme=dracula&column=4&no-frame=true)
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=dracula&layout=compact)](https://github.com/Gartner24/github-readme-stats"/>
-
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=dark&hide_progress=true)
 </div>
-
-## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
-  
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Gartner24&area=true&hide_border=true&theme=dracula)
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gartner24&theme=dark" /> </p>
+<p align="center">
+<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gartner24&theme=dark" /> </p>
   
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santiagovalencialeon@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
 
-[![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24)
-![Profile views](https://gpvc.arturio.dev/Gartner24)
+[![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24) [![GitHub Views](https://komarev.com/ghpvc/?username=Gartner24&color=dc143c)](https://github.com/Gartner24)
 
