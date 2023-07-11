@@ -31,7 +31,9 @@ Coding Time
 
    <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&count_private=false&show_icons=true&theme=dark&include_all_commits=true" alt="Gartner24 |Stats" />
 
-   <a href="https://github.com/Gartner24"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=dark"  width="500" alt="Gartner24"/></a>
+   <a href="https://github.com/Gartner24">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=dark" width="500" alt="Gartner24" style="border: 1px solid white; border-radius: 5px;">
+   </a>
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=dark&hide_progress=true)
 </div>
@@ -47,4 +49,3 @@ Coding Time
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
 
 [![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24) [![GitHub Views](https://komarev.com/ghpvc/?username=Gartner24&color=dc143c)](https://github.com/Gartner24)
-
