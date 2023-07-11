@@ -30,10 +30,11 @@ Coding Time
 <div align="center">
 
    <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&count_private=false&show_icons=true&theme=dark&include_all_commits=true" alt="Gartner24 |Stats" />
-
+   </br>
    <a href="https://github.com/Gartner24">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=dark" width="500" alt="Gartner24" style="border: 1px solid white; border-radius: 5px;">
    </a>
+   </br>
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=dark&hide_progress=true)
 </div>
