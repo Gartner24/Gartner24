@@ -9,6 +9,11 @@
 
 🖥️🖱️ I'm a FullStack developer. </br></br>
 
+## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
+  
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santiagovalencialeon@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
+
 Coding Time
 
 [![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24)
@@ -49,8 +54,3 @@ Coding Time
 
 <p align="center">
 <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gartner24&theme=dark" /> </p>
-  
-## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
-  
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santiagovalencialeon@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
