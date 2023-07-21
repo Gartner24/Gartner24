@@ -11,6 +11,8 @@
 
 Coding Time
 
+[![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24)
+[![GitHub Views](https://komarev.com/ghpvc/?username=Gartner24&color=dc143c)](https://github.com/Gartner24)
 [![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
 </div>
 
@@ -52,6 +54,3 @@ Coding Time
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santiagovalencialeon@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
-
-[![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24) [![GitHub Views](https://komarev.com/ghpvc/?username=Gartner24&color=dc143c)](https://github.com/Gartner24)
-
