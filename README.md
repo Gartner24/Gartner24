@@ -1,56 +1,60 @@
-
-# Welcome to my Profile 👩‍💻💻
+# Welcome to My Profile 🚀👨‍💻
 
 <p align="center">
 <img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="100px" ><img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="100px" >
 </p>
 
+## 🌟 About Me
+
+I am a **Full-Stack Developer** passionate about building **scalable web applications** and **high-performance frontend experiences**. With **3 years of coding experience** and expertise in **frontend, backend, DevOps, and cybersecurity**, I specialize in **Next.js 15, Astro, and modern web frameworks**. 
+
+💡 Always learning and exploring new technologies. 
+🚀 Focused on **web development, security, and cloud architecture**.
+
+---
+
+## 🔗 Connect with Me
+
+[![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:santiagovalencialeon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
+[![GitHub](https://img.shields.io/github/followers/Gartner24?label=Follow&style=social)](https://github.com/Gartner24)
+
+---
+
+## 🔥 Tech Stack
+
+### 🚀 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🔧 Backend & DevOps
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🎨 Design & UX
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&show_icons=true&theme=radical" alt="Gartner24 GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gartner24&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=radical" width="500" alt="Profile Summary" />
+</div>
 
-🖥️🖱️ I'm a FullStack developer. </br></br>
+---
 
-## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
-  
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santiagovalencialeon@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santiago-valencia-leon/)
+## 📈 Coding Activity
 
-Coding Time
-
-[![GitHub Gartner24](https://img.shields.io/github/followers/Gartner24?label=follow&style=social&logoColor=black)](https://github.com/Gartner24)
-[![GitHub Views](https://komarev.com/ghpvc/?username=Gartner24&color=dc143c)](https://github.com/Gartner24)
 [![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
-</div>
 
-## 🍕 I’m currently working on
+---
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
+## 🌱 Currently Exploring
+- **Next.js 15** and **advanced frontend performance optimizations**
+- **Cloud security & DevOps best practices**
+- **Scaling full-stack applications using modern web technologies**
 
-## ⚡ FrontEnd
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 🔙 Backend 🔚
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
-
-<div align="center">
-
-   <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&count_private=false&show_icons=true&theme=radical&include_all_commits=true" alt="Gartner24 |Stats" />
-   </br>
-   <a href="https://github.com/Gartner24">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=radical" width="500" alt="Gartner24" >
-   </a>
-   </br>
-
-   ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=Gartner24&theme=radical&column=4&no-frame=true)
-<!-- style="border: 1px solid white; border-radius: 5px;" -->
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gartner24&theme=radical&hide_progress=true)
-</div>
-
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
-
-<p align="center">
-<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gartner24&theme=dark" /> </p>
+🚀 Always open to collaboration and learning from the community!
