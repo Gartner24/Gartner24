@@ -34,18 +34,6 @@ I am a **Full-Stack Developer** passionate about building **scalable web applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gartner24&show_icons=true&theme=radical" alt="Gartner24 GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gartner24&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gartner24&theme=radical" width="500" alt="Profile Summary" />
-</div>
-
----
-
 ## 📈 Coding Activity
 
 [![wakatime](https://wakatime.com/badge/user/caad850a-914f-49b9-9c3e-74dbc4d58b18.svg)](https://wakatime.com/@caad850a-914f-49b9-9c3e-74dbc4d58b18)
